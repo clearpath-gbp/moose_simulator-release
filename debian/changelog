@@ -1,0 +1,23 @@
+ros-kinetic-moose-gazebo (0.1.1-1xenial) xenial; urgency=high
+
+  * [moose_gazebo] Updated dependencies.
+  * Contributors: Tony Baltovski
+
+ -- Tony Baltovski <tbaltovski@clearpathrobotics.com>  Thu, 09 Jan 2020 05:00:00 -0000
+
+ros-kinetic-moose-gazebo (0.1.0-1xenial) xenial; urgency=high
+
+  * Merge pull request #1 <https://github.com/moose-cpr/moose_simulator/issues/1> from dniewinski/gazebo_cleanup
+    Gazebo cleanup
+  * Added script install
+  * Made a dummy keyswitch node to still use the same mux setup as the robot
+  * Using moose_description instead of duplicating description
+  * Merge branch 'master' into 'master'
+    Initial Moose simulator
+    See merge request research/moose_simulator!1
+  * Initial Moose simulator
+  * Contributors: Dave Niewinski, Loic Azzalini, Tony Baltovski
+
+ -- Tony Baltovski <tbaltovski@clearpathrobotics.com>  Tue, 17 Dec 2019 05:00:00 -0000
+
+

@@ -1,3 +1,28 @@
+## moose_simulator (melodic) - 0.1.3-1
+
+The packages in the `moose_simulator` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic moose_simulator --new-track` on `Mon, 14 Sep 2020 15:11:23 -0000`
+
+These packages were released:
+- `moose_gazebo`
+- `moose_simulator`
+
+Version of package(s) in repository `moose_simulator`:
+
+- upstream repository: https://github.com/moose-cpr/moose_simulator.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.8`
+- catkin_pkg version: `0.4.22`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## moose_simulator (kinetic) - 0.1.3-1
 
 The packages in the `moose_simulator` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic moose_simulator` on `Fri, 14 Aug 2020 13:35:46 -0000`
